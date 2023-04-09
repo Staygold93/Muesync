@@ -1,0 +1,20 @@
+{
+  "name": "muesync",
+  "version": "1.0.0",
+  "description": "A  MERN Full-Stack App that enables the user to play their favorite Music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Staygold93/Muesync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Staygold93/Muesync/issues"
+  },
+  "homepage": "https://github.com/Staygold93/Muesync#readme"
+}
